@@ -1,0 +1,2 @@
+  Cuidado con no mapear el primer servlet Paso1_datosPersonales con /. Eso provoca que 
+no se visualicen las imágenes.
